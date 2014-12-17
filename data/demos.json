@@ -1,0 +1,8 @@
+﻿{
+    "navBase": "docs/demos/gameDemo",
+    "nav": [
+        { "status": "v.1.0", "title": "Overview", "doc": "index.html", "tooltip": "Background information for the demo series" },
+        { "status": "draft", "title": "Project Setup", "doc": "dvcs/demo.html", "tooltip": "Setting up the demo and using version control" },
+        { "status": "_tba_", "title": "Gamification", "doc": "planning/gamification.html", "tooltip": "Turning anything into a game" }
+    ]
+}

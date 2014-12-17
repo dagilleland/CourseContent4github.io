@@ -1,0 +1,108 @@
+﻿{
+    "courseNumber": "Web 101",
+    "courseName": "Web Development Fundamentals - HTML, CSS, JavaScript",
+    "startDate": "Jan 5, 2015",
+    "endDate": "Apr 24, 2015",
+    "breaks": [
+        { "name": "Reading Break", "start": "Feb 16, 2015", "end": "Feb 20, 2015" },
+        { "name": "Good Friday", "start": "Apr 3, 2015" },
+        { "name": "Family Day", "start": "Feb 16, 2015" }
+    ],
+    "reveal": "all",
+    "revealOptions": [
+        { "option": "all", "description": "Show all lessons" },
+        { "option": "weekly", "description": "Reveal lesson links weekly" }
+    ],
+    "navBase": "docs/course",
+    "nav": [
+        { "status": "v.1.0", "title": "Course Introduction", "doc": "about/intro.html", "tooltip": "" },
+        { "status": "_tba_", "title": "Bootstrap and VS2013", "doc": "about/bootstrapInVS2013.html", "tooltip": "" },
+        { "status": "v.1.0", "title": "Colophon", "doc": "about/colophon.html", "tooltip": "" },
+        { "status": "v.1.0", "title": "About", "doc": "about/about.html", "tooltip": "" },
+        { "status": "v.1.0", "title": "Change Log", "doc": "about/change-log.html", "tooltip": "" }
+    ],
+
+    "scheduleTemplate": {
+        "week": "Week",
+        "topics": "Planned topics",
+        "evaluations": "In-Class Assessments"
+    },
+
+    "schedule": [
+        {
+            "week": 1,
+            "topics": [ "Course Intro", "DVCS - Git Basics" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 2,
+            "topics": [ "Intro to HTML and HTML 5", "HTML 5 Features", "Intro to HTML 5 Forms" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 3,
+            "topics": [ "Intro to CSS and CSS 3", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ "Using Git and GitHub" ]
+        },
+        {
+            "week": 4,
+            "topics": [ "Intro to Javascript", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 5,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 6,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 7,
+            "topics": [ "Security - OAuth/OpenID" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 8,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 9,
+            "topics": [ "Intro to User Experience", "Principles of User Interaction", "UX and Business Workflows" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 10,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 11,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 12,
+            "topics": [ "Placeholder Topic", "Placeholder Topic 2", "Placeholder Topic 3" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 13,
+            "topics": [ "Website Deployment", "Database Deployment" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 14,
+            "topics": [ "Work Period" ],
+            "evaluations": [ ]
+        },
+        {
+            "week": 15,
+            "topics": [ "Work Period" ],
+            "evaluations": [ ]
+        }
+    ]
+}

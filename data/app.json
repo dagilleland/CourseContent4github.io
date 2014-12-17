@@ -1,0 +1,29 @@
+﻿{
+    "mainNav": [
+        {
+            "category": "courseOffering",
+            "title": "Course Calendar",
+            "content": "./data/course.json"
+        },
+        {
+            "category": "topics",
+            "title": "Notes",
+            "content": "./data/topics.json"
+        },
+        {
+            "category": "demos",
+            "title": "Code Demos",
+            "content": "./data/demos.json"
+        },
+        {
+            "category": "evaluations",
+            "title": "Evaluations",
+            "content": "./data/evaluations.json"
+        },
+        {
+            "category": "project",
+            "title": "Course Project",
+            "content": "./data/project.json"
+        }
+    ]
+}
