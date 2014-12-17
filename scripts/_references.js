@@ -3,6 +3,7 @@
 /// <reference path="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" />
 /// <reference path="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" />
 /// <reference path="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular.min.js" />
+/// <reference path="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-mocks.min.js" />
 /// <reference path="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-animate.min.js" />
 /// <reference path="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-route.min.js" />
 /// <reference path="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-sanitize.min.js" />
